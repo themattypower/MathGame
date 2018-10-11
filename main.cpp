@@ -28,7 +28,7 @@ bool question(int highest) {
 	return ifCorrect;
 }
 
-/*
+
 int main() {
 double highest = 100, asked = 0, correct = 0;
 double percentage = 0.0;
@@ -51,10 +51,8 @@ cout << "Incorrect\nScore " << correct << "/" << asked << "\n" << percentage << 
 
 }
 
-*/
 
-
-
+/*
 int main()
 {
 	unsigned char b, f;
@@ -72,4 +70,4 @@ int main()
 	printf("\n");
 	return 0;
 }
-
+*/
